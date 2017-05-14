@@ -2,7 +2,7 @@
 
 Include your team members names. [And link to your live project url.](/)
 
-![Example project image](image/example.png)
+![Example project image](example.png)
 
 Extra kudos if you make a GIF for your project example image.
 
